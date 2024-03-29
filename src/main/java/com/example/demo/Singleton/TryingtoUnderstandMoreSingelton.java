@@ -1,4 +1,6 @@
-package com.example.demo;
+package com.example.demo.Singleton;
+
+import com.example.demo.Singleton.SingletonExample;
 
 public class TryingtoUnderstandMoreSingelton {
 
